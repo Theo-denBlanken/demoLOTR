@@ -1,6 +1,6 @@
 # Lord of the Rings
 
-## een training Bootstrap
+## een training met Bootstrap
 
 Het resultaat zie je op: https://youtu.be/9s0KxNCn04Q
 
